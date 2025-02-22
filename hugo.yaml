@@ -1,0 +1,441 @@
+baseURL: "http://akandaniel.netlify.app"
+languageCode: "en-us"
+title: "Akanimoh | AfroLogicInsect"
+theme: hugo-profile
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+enableRobotsTXT: true
+
+pagination:
+  pagerSize: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: /blog
+      weight: 1
+    - identifier: gallery
+      name: Gallery
+      title: Blog posts
+      url: /gallery
+      weight: 2
+
+params:
+  title: "Akanimoh | AfroLogicInsect"
+  description: "Finding Solutions using **Intelligence**, **Orchestration**, **Research** and **Syntantic Sugar** .py|.r|.rmd|.gs - az|aws"
+  favicon: "/fav.png"
+  useBootstrapCDN: false
+  mathjax: false
+  animate: true
+
+  theme:
+    # disableThemeToggle: true
+    # defaultTheme: "light" # dark
+
+  font:
+    fontSize: 1rem # default: 1rem
+    fontWeight: 400 # default: 400
+    lineHeight: 1.5 # default: 1.5
+    textAlign: left # default: left
+
+  navbar:
+    align: ms-auto
+    brandName: "AfroLogicInsect"
+    disableSearch: false
+    stickyNavBar:
+      enable: true
+      showOnScrollUp: true
+    enableSeparator: false
+    menus:
+      disableAbout: false
+      disableExperience: false
+      disableEducation: false
+      disableProjects: false
+      disableAchievements: false
+      disableContact: false
+
+  hero:
+    enable: true
+    intro: "Hi, my name is"
+    title: "Daniel."
+    subtitle: "Intelligence, Design & Orchestration."
+    content: "Finding Solutions using Intelligence, Orchestration, Research and Syntantic Sugar .py|.r|.rmd|.gs - az|aws"
+    image: /images/profile.jpg
+    bottomImage:
+      enable: true
+    button:
+      enable: true
+      name: "Resume"
+      url: "assets/AMAH_AD_cv.pdf"
+      download: true
+      newPage: false
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: https://github.com/AkanimohOD19A/
+        - icon: fab fa-x-twitter
+          url: https://twitter.com/AfroLogicInsect
+        - icon: fab fa-kaggle
+          url: https://www.kaggle.com/afrologicinsect
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/daniel-amah-2559a4159
+        - icon: fab fa-youtube
+          url: https://www.youtube.com/@akandee
+
+  # About
+  about:
+    enable: true
+    title: "About Me"
+    image: "/images/rookie_ascending.png"
+    content: |-
+      I like to think of myself as a rookie ascending towards mastery, over the years I have specialized in data analysis, machine learning, and orchestration. I thrive on crafting behavioral profiles, building intelligence, and orchestrating production-ready ML solutions to drive impactful business outcomes.
+
+      I also enjoy communicating about these technical topics with a diverse audiences.
+    skills:
+      enable: true
+      title: "**Technical Skills & Tools**"
+      items:
+        - "**Programming Languages**: Python, R, SQL, JavaScript, Googlescript"
+        - "**Data Analysis & Visualization**: Tableau, PowerBI, ggplot2, Matplotlib, Seaborn, Plotly"
+        - "**Machine Learning Frameworks**: Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, LightGBM"
+        - "**MLOps & Orchestration**: ZenML, MLFlow, Kubeflow, Airflow, Docker, Kubernetes"
+        - "**Cloud Platforms**: AWS (S3, EC2, Lambda), Azure (Data Factory, ML Studio), GCP (BigQuery, Vertex AI)"
+        - "**Web Development**: Flask, Django, Streamlit, Gradio, RShiny"
+        - "**Version Control & CI/CD**: Git, GitHub Actions, Jenkins"
+        - "**Database Management**: PostgreSQL, MySQL, MongoDB, BigQuery"
+        - "**Data Engineering**: Apache Spark, Apache Kafka, Pandas, NumPy, Dask"
+        - "**DevOps & CLI Tools**: Bash, Azure CLI, AWS CLI, Terraform"
+
+  # Experience
+  experience:
+    enable: true
+    # title: "Custom Name"
+    items:
+      - job: "Customer Behavior Analyst "
+        company: "WEMA Bank PLC"
+        companyUrl: "https://www.wemabank.com/"
+        date: "Dec 2023 - present"
+        content: |
+          - Conducted in-depth market-behavioral research for customer segmentation and profiling, leading to a 20% increase in targeted marketing campaign effectiveness.
+          - Analyzed transaction velocity and mobile-tech adoption patterns, resulting in optimized user experiences and a 15% boost in mobile app transactions.
+          - Collaborated with cross-functional teams to develop advanced machine learning models for predicting customer behavior, increasing conversion rates by 30%.
+          - Implemented real-time analytics dashboards using Power BI and Azure, enhancing decision-making processes for marketing and sales teams.
+          - Automated reporting systems, reducing manual work by 40% and ensuring timely and accurate insights for stakeholders.
+
+      - job: "Customer Behavior Analyst"
+        company: "Polaris Bank LTD"
+        companyUrl: "/https://www.polarisbanklimited.com/"
+        date: "Nov 2021 - Dec 2023"
+        content: |
+          - Conducted market research and behavioral analysis for customer segmentation, leading to a 20% increase in personalized marketing success.
+          - Enhanced customer profiling techniques, optimizing targeting strategies and increasing retention rates by 25%.
+          - Developed and implemented machine learning algorithms for customer journey analytics, driving a 15% improvement in digital engagement.
+          - Automated customer data collection and reporting systems, reducing operational costs by 50% and enhancing data accuracy.
+          - Collaborated with IT and marketing teams to design data-driven UX improvements, reducing customer drop-off rates by 20%.
+
+      - job: "Data Analyst"
+        company: "Survey Plus LTD"
+        companyUrl: "https://getsurveyplus.com/"
+        date: "Dec 2020 - Nov 2021"
+        content: |
+          - Created comprehensive blueprints for data collection and analysis processes, enhancing overall data quality and consistency.
+          - Automated report generation and monitoring systems, ensuring accuracy in onboarding processes and reducing manual workload by 50%.
+          - Implemented machine learning models for fraud detection, identifying and preventing fraudulent activities, saving the company significant potential losses.
+          - Analyzed demographic patterns to improve customer onboarding experiences, increasing onboarding accuracy and reducing customer churn by 15%.
+          - Developed dashboards and visualizations to support strategic decision-making, providing actionable insights to stakeholders.
+      
+      - job: "AI/ML Engineer"
+        company: "Self-Employed"
+        companyUrl: "https://github.com/AkanimohOD19A"
+        date: "2023 - present"
+        content: |
+          - Developed and deployed advanced ML models for real-time drowsiness and brain tumor detection, achieving 95% accuracy in practical applications.
+          - Led research initiatives on melanoma detection with a focus on addressing racial bias in AI models, enhancing diagnostic accuracy for diverse populations.
+          - Designed and launched a generative AI-based IELTS Writing Task Generator, automating task creation and scoring with high reliability.
+          - Built a contextual chatbot using Cohere's command-r models, improving user interaction through natural language understanding and response generation.
+          - Engineered automated data analysis tools, streamlining exploratory data analysis (EDA) and reporting processes for non-technical users.
+  
+  # Education
+  education:
+    enable: true
+    # title: "Custom Name"
+    index: false
+    items:
+      - title: "Bachelor of Science in Demography and Social Statistics"
+        school:
+          name: "Obafemi Awolowo University, Ile-Ife"
+          url: "https://oauife.edu.ng/"
+        date: "2014 - 2018"
+        GPA: "4.39 out of 5.0"
+        content: |-
+          I published two papers in the ADSS Conference Paper on Demographic and Health Survey:
+          - "Evaluation of Household Age Data in the Nigerian Demographic and Health Survey, 2013." (2018)
+          - "Mass Media: Assessing Fertility Rates with Family Planning, A case study of Ilesha, Osun State" (2017)
+          
+          *Other Publications:*
+          - " George, O., **Amah, D.**, & Emmanuel, J. (2024). Towards fairness and efficiency: A low-weight computer-aided model for melanoma detection with racial bias handling. In ICRS-STI 2024: Book of Abstracts (pp. [33]). Covenant University." (2024)
+        # featuredLink:
+        #   enable: true
+        #   name: "My academic record"
+        #   url: "https://example.com"
+
+  # Achievements
+  achievements:
+    enable: true
+    # title: "Custom Name"
+    items:
+      - title: Co-Authored a Paper on Melanoma Detection
+        content: "Towards fairness and efficiency: A low weight computer-aided model for melanoma detection with racial bias handling."
+        url: https://melanomav1.streamlit.app
+        image: /images/melanoma-app.png
+      # - title: Facebook Hackathon Winner
+      #   content: Developed a product using Artificial Intelligence.
+      #   image: /images/achievement.jpg
+      # - title: Hugo Profile
+      #   content: Developed a theme and getting 1K+ downloads per month.
+      #   url: "https://github.com/gurusabarish/hugo-profile"
+      #   image: /images/achievement.jpg
+      # - title: Microsoft Imagine Runner
+      #   content: We are developed a product which can help others.
+      # - title: Google Summer of Code
+      #   content: Contributed to a open source project.
+      #   url: https://example.com
+
+
+  # projects
+  projects:
+    enable: true
+    # title: "Custom Name"
+    items:
+      - title: Machine Learning Micro-services
+        content: Utilizing ML for computer vision to manipulate real-time data.
+        image: /images/placeholder.jpg
+        featured:
+          name: View Project
+          link: https://akanimohod19a-transcription-services-app-qi0ntg.streamlit.app/
+        badges:
+          - "Python"
+          - "Streamlit"
+          - "Computer Vision"
+          - "Machine Learning"
+        links:
+          - icon: fa-solid fa-cloud
+            url: https://share.streamlit.io/user/akanimohod19a
+
+      - title: ML Web Applications
+        content: Utilizing supervised learning to predict in real-time.
+        image: /images/placeholder.jpg
+        featured:
+          name: View Project
+          link: https://share.streamlit.io/user/akanimohod19a
+        badges:
+          - "Python"
+          - "Streamlit"
+          - "Model Building"
+          - "Supervised Learning"
+          - "Machine Learning"
+        links:
+          - icon: fa-solid fa-cloud
+            url: https://share.streamlit.io/user/akanimohod19a
+
+      - title: MLOPs | ML Engineering Notes
+        content: Detailed notes and tutorials on deploying ML models and applications.
+        image: /images/placeholder.jpg
+        featured:
+          name: View Project
+          link: https://dev.to/afrologicinsect/lets-build-your-first-ml-app-in-google-cloud-run-1ol2
+        badges:
+          - "Vertex AI"
+          - "GCP"
+          - "API"
+          - "Orchestration"
+          - "Model Development"
+          - "Model Deployment"
+          - "Supervised Learning"
+        links:
+          - icon: fab fa-dev
+            url: https://dev.to/afrologicinsect/lets-build-your-first-ml-app-in-google-cloud-run-1ol2
+
+      - title: Deep Learning for Computer Vision
+        content: Utilizing transfer learning to classify written digits and detect drowsiness in real-time.
+        image: /images/YOLO-promo.gif
+        featured:
+          name: View Project
+          link: https://akanimohod19a.github.io/digit-recognizer.github.io/
+        badges:
+          - "TensorFlow"
+          - "Keras"
+          - "Python"
+          - "Computer Vision"
+        links:
+          - icon: fab fa-github
+            url: https://akanimohod19a.github.io/digit-recognizer.github.io/
+
+      - title: Exploratory Data Analysis
+        content: Utilizing Pycharm scripts to explore and visualize various datasets.
+        image: /images/EDA-promo.png
+        featured:
+          name: View Project
+          link: https://github.com/AkanimohOD19A/Python-EDAs
+        badges:
+          - "Python"
+          - "EDAs"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/AkanimohOD19A/Python-EDAs
+
+      - title: Automated Reports
+        content: Utilizing R & Rmds to report opinion polls in Ondo State, Nigeria.
+        image: /images/auto-reports-promo.png
+        featured:
+          name: View Project
+          link: http://rpubs.com/AfroLogicInsect/
+        badges:
+          - "R"
+          - "Descriptive Statistics"
+          - "Reports"
+        links:
+          - icon: fab fa-r-project
+            url: http://rpubs.com/AfroLogicInsect/
+
+      - title: Covid-19 in Nigeria
+        content: Utilizing MS Excel to analyze and visualize daily Covid-19 cases in Nigeria.
+        image: /images/ng-covid-promo.png
+        featured:
+          name: View Project
+          link: https://drive.google.com/file/d/17juHJ0YwlVmaVsMsgV74kIzrwFUU3ULl/view?usp=drivesdk
+        badges:
+          - "Covid-19"
+          - "MS Excel"
+          - "Dashboards"
+        links:
+          - icon: fab fa-google-drive
+            url: https://drive.google.com/file/d/17juHJ0YwlVmaVsMsgV74kIzrwFUU3ULl/view?usp=drivesdk
+
+      - title: Tableau Dashboards
+        content: An array of dashboards, with focus on Nigeria and Africa.
+        image: /images/tableau-promo.png
+        featured:
+          name: View Project
+          link: https://public.tableau.com/app/profile/amah.daniel/vizzes
+        badges:
+          - "Dashboards"
+          - "Tableau Public"
+          - "Analytics"
+        links:
+          - icon: fa fa-table
+            url: https://public.tableau.com/app/profile/amah.daniel/vizzes
+
+      - title: Google Add-On
+        content: A readability application that processes your Google Docs for compliance.
+        image: /images/rg-promo.png
+        featured:
+          name: View Project
+          link: https://gsuite.google.com/marketplace/app/readability_guidelines_app/777126318938
+        badges:
+          - "Google Apps Scripts"
+          - "Google Cloud Platform"
+          - "Google Docs"
+        links:
+          - icon: fab fa-google
+            url: https://gsuite.google.com/marketplace/app/readability_guidelines_app/777126318938
+
+      - title: Quarantine Season
+        content: Explores an active lifestyle despite the very tedious circumstances.
+        image: /images/behance-promo.png
+        featured:
+          name: View Project
+          link: https://www.behance.net/gallery/99302067/Quarantine-Season
+        badges:
+          - "Adobe Illustrator"
+          - "Character Design"
+        links:
+          - icon: fab fa-behance
+            url: https://www.behance.net/gallery/99302067/Quarantine-Season
+
+      - title: Alté Podcast
+        content: A co-produced social works themed Podcast - Alté as an alternate to life the way we live it.
+        image: /images/alte-promo.png
+        featured:
+          name: View Project
+          link: https://anchor.fm/alte/
+        badges:
+          - "Anchor"
+          - "Podcast"
+          - "Alternative"
+        links:
+          - icon: fab fa-spotify
+            url: https://anchor.fm/alte/
+
+  #Contact
+  contact:
+    enable: true
+    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    btnName: Mail me
+    btnLink: mailto:danielamahtoday@gmail.com
+    formspree:
+      enable: true
+      formId: xbldzeow # https://formspree.io/f/xbldzeow
+      emailCaption: "Enter your email address"
+      messageCaption: "Enter your message here"
+      messageRows: 5
+
+  footer:
+    recentPosts:
+      path: "blog"
+      count: 3
+      title: Recent Posts
+      enable: true
+      disableFeaturedImage: false
+    socialNetworks:
+      github: https://github.com/AkanimohOD19A
+      linkedin: https://www.linkedin.com/in/daniel-amah-2559a4159
+      twitter: https://twitter.com/AfroLogicInsect
+      youtube: https://www.youtube.com/@akandee
+      kaggle: https://www.kaggle.com/afrologicinsect
+
+  # List pages like blogs and posts
+  listPages:
+    disableFeaturedImage: false
+
+  # Single pages like blog and post
+  singlePages:
+    socialShare: true
+    readTime:
+      enable: true
+      content: "min read"
+    scrollprogress:
+      enable: true
+    tags:
+      openInNewTab: true
+
+  # For translations
+  terms:
+    read: "Read"
+    toc: "Table Of Contents"
+    copyright: "All rights reserved"
+    pageNotFound: "Page not found"
+    emailText: "Check out this site"
+
+  datesFormat:
+    article: "Jan 2, 2006"
+    articleList: "Jan 2, 2006"
+    articleRecent: "Jan 2, 2006"
+
+  #customScripts: -| # You can add custom scripts which will be added before </body> tag
+  #  <script type="text/javascript"><!-- any script here --></script>
