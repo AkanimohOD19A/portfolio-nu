@@ -1,4 +1,4 @@
-baseURL: "http://akandaniel.netlify.app"
+baseURL: "https://akandaniel.netlify.app"
 languageCode: "en-us"
 title: "Akanimoh | AfroLogicInsect"
 theme: hugo-profile
