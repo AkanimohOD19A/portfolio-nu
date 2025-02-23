@@ -81,7 +81,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "assets/AMAH_AD_cv.pdf"
+      url: "assets/AMAH_AD_Data-LifeCycle.pdf"
       download: true
       newPage: false
     socialLinks:
