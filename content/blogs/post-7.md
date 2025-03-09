@@ -1,5 +1,5 @@
 ---
-title: 'Building a Drowsiness Detection Web App from scratch - pt1'
+title: 'Pt1 - Building a Drowsiness Detection Web App from scratch'
 date: '2025-02-16T07:34:32+01:00'
 draft: false
 github_link: "https://github.com/AkanimohOD19A/DPL_Drowsiness_Detection"
