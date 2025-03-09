@@ -9,6 +9,9 @@ author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
 
+
+# Model Selection & Hyper Parameter Tuning in Binary Data Classification (Practical Example)
+
 How can you identify Fraud using a Dataset on Energy Consumption in a relationship between Service Provider and Energy consumers? To determine the class of Fraud, 0 or 1, where 0 stands for No Instance of Fraud and 1 otherwise.
 
 This data was recently hosted on [Zindi](https://zindi.africa/competitions/indabax-nigeria-23) for a prediction exercise. Let's see how we can approach this, selecting a Model and Tuning the selected model for the best Parameters which makes the best accuracy score which will in turn make the best predictions. It is in the same vein, that this is not addressed for Exploratory Data Analysis or other forms of Feature Selection or Engineering. The Author has assumed that you had moved past this as well as have partitioned your data in Train (X_train) and Test (X_test) Data in a workflow.

@@ -1,5 +1,5 @@
 ---
-title: 'Pt1 - git init cohere_streamlit'
+title: 'git init cohere_streamlit - Pt1'
 date: '2025-02-16T07:34:32+01:00'
 draft: false
 github_link: "https://github.com/AkanimohOD19A/initial-cohere"
@@ -8,6 +8,8 @@ tags: ["data-science", "machine-learning", "cohere", "streamlit", "YOLOv6", "tut
 author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
+
+# Pt1 - git init cohere_streamlit
 
 In this post, we will generally review how to create a web app that generates text based on keywords using Streamlit and Cohere. Streamlit is a framework that lets you create interactive web apps with Python and Cohere is a natural language generation (NLG) platform that lets you generate high-quality text from keywords, prompts, or data from a simple API call.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Wk 1: MLOPs with DataTalks'
+title: 'MLOPs with DataTalks: Wk 1'
 date: '2025-02-16T07:34:32+01:00'
 draft: false
 github_link: "https://github.com/AkanimohOD19A/MLOps_24"
@@ -8,6 +8,8 @@ tags: ["MLOPs", "data-science", "machine-learning", "streamlit"]
 author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
+
+# Wk 1: MLOPs with DataTalks
 
 Recently joined the [DataTalks 2024 cohort](https://github.com/DataTalksClub/mlops-zoomcamp) to earn a **MLOps** Certificate and essentially build on Machine Pipeline competencies. To complete the course are assignments that have to be completed every other week.
 

@@ -9,6 +9,8 @@ author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
 
+# Pt2 - Zenml for beautiful beautiful orchestration
+
 Here's where we take the next step of organizing our single script by transforming it into specific scripts per _step_ - this makes things tidier. More importantly, we'd get to learn more about decorators and _Model_ objects, for example we get to use **Model** Objects and how to store model artifacts.
 
 Since this is sequel to this [post](https://dev.to/afrologicinsect/zenml-for-beautiful-beautiful-orchestration-46db), we can just continue with the created stack - in the author's example it is called *new_stack*. However, before we go ahead, let's update this stack by registering an _experiment tracker_, which would be used later on to configure [_MLflow_](https://www.bing.com/ck/a?!&&p=8865c0a4693eaf53JmltdHM9MTcyNjg3NjgwMCZpZ3VpZD0zODA4ZWQwNS00YmRlLTYwYjQtMjNhNi1mZWZiNGEwMzYxOWMmaW5zaWQ9NTQ4NQ&ptn=3&ver=2&hsh=3&fclid=3808ed05-4bde-60b4-23a6-fefb4a03619c&psq=mlflow&u=a1aHR0cHM6Ly9tbGZsb3cub3JnL2RvY3MvbGF0ZXN0L3RyYWNraW5nLmh0bWw&ntb=1).

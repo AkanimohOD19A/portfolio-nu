@@ -1,5 +1,5 @@
 ---
-title: 'Pt3 - Building a Drowsiness Detection Web App from scratch'
+title: 'Building a Drowsiness Detection Web App from scratch - pt3'
 date: '2025-02-16T07:34:32+01:00'
 draft: false
 github_link: "https://github.com/AkanimohOD19A/DPL_Drowsiness_Detection"
@@ -8,6 +8,8 @@ tags: ["data-science", "machine-learning", "cohere", "streamlit", "YOLOv6", "tut
 author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
+
+# Pt3 - Building a Drowsiness Detection Web App from scratch
 
 In the final leg of this Tutorial, we start to build a webpage using __Streamlit__ that can perform three things:
 1. Give some description of the Application

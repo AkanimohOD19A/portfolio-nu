@@ -9,6 +9,8 @@ author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
 
+# ChatGPT on Streamlit and monitoring query response, a simple implementation
+
 In this blog post, we will explore my approach to creating a prototype or MVP of sorts that demonstrates the use of the ChatGPT API to retrieve responses on queries fed, optimized for certain keywords and also present an exploration of the responses.
 
 ChatGPT is the immensely popular model built by OpenAI, trained on massive amounts of data to provide human-like responses to prompts, recently the OpenAI team released APIs enabling us to be able to call this immense function from our application. 

@@ -9,6 +9,8 @@ author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
 
+# Pt1 - Zenml for beautiful beautiful orchestration
+
 Let's build this!
 
 ![Simple ML Pipeline](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kizs8rrbda3or1czu558.png)

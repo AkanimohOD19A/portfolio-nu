@@ -1,5 +1,5 @@
 ---
-title: 'Pt2 - Building a Drowsiness Detection Web App from scratch'
+title: 'Building a Drowsiness Detection Web App from scratch - Pt2'
 date: '2025-02-16T07:34:32+01:00'
 draft: false
 github_link: "https://github.com/AkanimohOD19A/DPL_Drowsiness_Detection"
@@ -8,6 +8,8 @@ tags: ["data-science", "machine-learning", "cohere", "streamlit", "YOLOv6", "tut
 author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
+
+# Pt2 - Building a Drowsiness Detection Web App from scratch
 
 Cheers for making it to pt2; You've learnt how to Import datasets, augment that data and label the images, now we set up for real time predictions using the powerful YOLOv5 model and Google Colaboratory.
 

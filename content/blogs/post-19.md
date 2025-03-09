@@ -9,6 +9,7 @@ author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
 
+# Creating a chatbot with contextual retrieval using Cohere command-r and Streamlit
 
 ![Streamlit page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3c3iwk5mar7zq707t8s.png)
 

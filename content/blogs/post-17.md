@@ -9,7 +9,6 @@ author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
 
-
 # Deploying a Local MLOps Solution: The Final Chapter
 
 *Part 3 of our MLOps Series*

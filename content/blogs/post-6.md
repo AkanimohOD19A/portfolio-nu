@@ -1,5 +1,5 @@
 ---
-title: 'Pt2 - git init cohere_streamlit'
+title: 'git init cohere_streamlit - Pt2'
 date: '2025-02-16T07:34:32+01:00'
 draft: false
 github_link: "https://github.com/AkanimohOD19A/initial-cohere"
@@ -8,6 +8,8 @@ tags: ["data-science", "machine-learning", "cohere", "streamlit", "YOLOv6", "tut
 author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
+
+# Pt2 - git init cohere_streamlit
 
 ### Setting Up Dependencies
 After you have installed the required libraries, create a folder called .streamlit in your directory, within this folder create a secrets.toml file and put the following in it.

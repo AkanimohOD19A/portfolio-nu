@@ -8,6 +8,9 @@ tags: ["data-science", "machine-learning", "streamlit", "googlesheet", "tutorial
 author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
+
+# Effortlessly Link Streamlit to Google Sheets for Real-time Analysis
+
 As a researcher one major headache is the cost of data gathering, simple solutions can be quite manual or very expensive, however we can create a solution that solves this, that is both simple and free, using your **free** Google Account and Streamlit, a UI framework that “turns data scripts into shareable web apps in minutes all in pure Python, no front‑end experience required”. In short, with this tutorial we will build one together. As mentioned, we will need two things you Google Apps Sheet Keys and some knowledge of Streamlit. We will be creating a real-time interface between these two.
 
 ## 1 Set Up Google Credentials

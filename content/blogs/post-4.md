@@ -9,6 +9,9 @@ author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
 
+
+# Pt1 - Deploying an Image Segmentation web application with YOLOv8 and Streamlit
+
 ![Segmented Pieces](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pvgpuepoh09cat8bbph1.png)
 
 We are going to create an object detecting web app, our goal is to to segment any image, note the distribution of the unique items in it, implement a slider view and ultimately deploy this on a web-application anyone can use.

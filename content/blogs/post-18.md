@@ -9,6 +9,8 @@ author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
 
+# Local Workflow: Orchestrating Data Ingestion into Airtable
+
 
 ![Local Workflow](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/smc6a9htjvvlzzq2em94.jpg)
 

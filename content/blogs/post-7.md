@@ -1,5 +1,5 @@
 ---
-title: 'Pt1 - Building a Drowsiness Detection Web App from scratch'
+title: 'Building a Drowsiness Detection Web App from scratch - pt1'
 date: '2025-02-16T07:34:32+01:00'
 draft: false
 github_link: "https://github.com/AkanimohOD19A/DPL_Drowsiness_Detection"
@@ -8,6 +8,9 @@ tags: ["data-science", "machine-learning", "cohere", "streamlit", "YOLOv6", "tut
 author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
+
+
+# Pt1 - Building a Drowsiness Detection Web App from scratch
 
 Have you ever wondered how to build a web app that can detect if you are feeling sleepy or alert? Do you want to learn how to use computer vision and machine learning to create a fun and useful project? Then this blog post is for you! In this post, we will see how to build a drowsiness detection web app from scratch, using _Python_, _LabelImg_, _PyTorch_ and _Streamlit_. 
 

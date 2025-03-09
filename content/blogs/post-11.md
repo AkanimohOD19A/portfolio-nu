@@ -10,6 +10,8 @@ image: /images/blog-placeholder.png
 ---
 
 
+# Let's build your first ML app in Google Cloud Run
+
 Unleash your inner data wizard! This blog is your roadmap to building a real-world machine learning app on Google Cloud Run, even if you're a coding newbie. Let's turn your ideas into intelligent reality. 
 
 ## Getting Started

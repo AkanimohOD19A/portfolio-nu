@@ -1,5 +1,5 @@
 ---
-title: 'Wk 3 Experiment Tracking: MLOPs with DataTalks'
+title: 'Experiment Tracking: MLOPs with DataTalks: Wk 3'
 date: '2025-02-16T07:34:32+01:00'
 draft: false
 github_link: "https://github.com/AkanimohOD19A/MLOps_24"
@@ -8,6 +8,8 @@ tags: ["MLOPs", "data-science", "machine-learning", "streamlit"]
 author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
+
+# Wk 3: MLOPs with DataTalks
 
 
 In this week, the course discusses how to carry out ML experiments, using the __MLflow__ experiment tracking tool. This setup allows you to track and log your machine learning experiments and results.

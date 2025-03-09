@@ -1,5 +1,5 @@
 ---
-title: 'Wk 4 Experiment Tracking: MLOPs with DataTalks'
+title: 'Experiment Tracking: MLOPs with DataTalks: Wk 4'
 date: '2025-02-16T07:34:32+01:00'
 draft: false
 github_link: "https://github.com/AkanimohOD19A/MLOps_24"
@@ -8,6 +8,8 @@ tags: ["MLOPs", "data-science", "machine-learning", "streamlit"]
 author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
+
+# Wk 4: MLOPs with DataTalks
 
 
 Oh, you made it to the 4th week! Nice!

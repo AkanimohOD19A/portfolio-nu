@@ -9,6 +9,8 @@ author: "AfroLogicInsect"
 image: /images/blog-placeholder.png
 ---
 
+# From Data to Insights: Building a No-Code Web App for Exploratory Data Analysis
+
 Hi everyone, welcome! Today we are going to create this awesome [web-app](https://auto-eda.streamlit.app/): that simply takes your data file and provides first-level analysis or what is commonly known as exploratory data analysis (EDA).
 
 ![EDA Web App](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qlxnqbe9fdb41yl5r7qw.png)
