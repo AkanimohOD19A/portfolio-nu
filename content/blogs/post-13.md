@@ -6,7 +6,7 @@ github_link: "https://github.com/AkanimohOD19A/MLOps_24"
 description: "git init cohere_streamlit"
 tags: ["MLOPs", "data-science", "machine-learning", "streamlit"]
 author: "AfroLogicInsect"
-image: blog-images/blogs-placeholder.png
+image: /images/blog-placeholder.png
 ---
 
 

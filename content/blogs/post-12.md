@@ -6,7 +6,7 @@ github_link: "https://github.com/AkanimohOD19A/MLOps_24"
 description: "git init cohere_streamlit"
 tags: ["MLOPs", "data-science", "machine-learning", "streamlit"]
 author: "AfroLogicInsect"
-image: blog-images/blogs-placeholder.png
+image: /images/blog-placeholder.png
 ---
 
 Recently joined the [DataTalks 2024 cohort](https://github.com/DataTalksClub/mlops-zoomcamp) to earn a **MLOps** Certificate and essentially build on Machine Pipeline competencies. To complete the course are assignments that have to be completed every other week.

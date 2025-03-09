@@ -6,7 +6,7 @@ github_link: "https://github.com/AkanimohOD19A/chatish_v1"
 description: "Retrieval Augmented Generation w/ Cohere command-r "
 tags: ["Generative Ai", "Cohere", "Command-R", "RAG", "data-science"]
 author: "AfroLogicInsect"
-image: blog-images/blogs-placeholder.png
+image: /images/blog-placeholder.png
 ---
 
 

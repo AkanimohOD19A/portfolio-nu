@@ -6,7 +6,7 @@ github_link: "https://github.com/AkanimohOD19A/DPL_Drowsiness_Detection"
 description: "git init cohere_streamlit"
 tags: ["data-science", "machine-learning", "cohere", "streamlit", "YOLOv6", "tutorial", "lifecycle"]
 author: "AfroLogicInsect"
-image: blog-images/blogs-placeholder.png
+image: /images/blog-placeholder.png
 ---
 
 In the final leg of this Tutorial, we start to build a webpage using __Streamlit__ that can perform three things:

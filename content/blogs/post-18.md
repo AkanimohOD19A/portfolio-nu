@@ -6,7 +6,7 @@ github_link: "https://github.com/AkanimohOD19A/scheduling_airtable_insertion"
 description: "DataFlow orchestration with AirTable automated ingestion"
 tags: ["MLOPs", "DevOps", "Automation", "AirTable", "data-science"]
 author: "AfroLogicInsect"
-image: blog-images/blogs-placeholder.png
+image: /images/blog-placeholder.png
 ---
 
 

@@ -6,7 +6,7 @@ github_link: "https://github.com/AkanimohOD19A/initial-cohere"
 description: "git init cohere_streamlit"
 tags: ["data-science", "machine-learning", "cohere", "streamlit", "YOLOv6", "tutorial", "lifecycle"]
 author: "AfroLogicInsect"
-image: blog-images/blogs-placeholder.png
+image: /images/blog-placeholder.png
 ---
 
 ### Setting Up Dependencies

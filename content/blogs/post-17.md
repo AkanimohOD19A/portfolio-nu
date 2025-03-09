@@ -6,7 +6,7 @@ github_link: "https://github.com/AkanimohOD19A/simple_ml_pipeline/tree/main"
 description: "Mlflow Aliases/Tags: deploying models and best practices using zenml x mlflow orchestration"
 tags: ["MLOPs", "ZenML", "MlFlow", "data-science", "machine-learning", "streamlit", "best practices"]
 author: "AfroLogicInsect"
-image: blog-images/blogs-placeholder.png
+image: /images/blog-placeholder.png
 ---
 
 

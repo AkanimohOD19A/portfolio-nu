@@ -6,7 +6,7 @@ github_link: "https://github.com/AkanimohOD19A/automl_init"
 description: "git init cohere_streamlit"
 tags: ["data-science", "machine-learning", "GCP", "Vertex Ai", "streamlit", "tutorial", "lifecycle"]
 author: "AfroLogicInsect"
-image: blog-images/blogs-placeholder.png
+image: /images/blog-placeholder.png
 ---
 
 
