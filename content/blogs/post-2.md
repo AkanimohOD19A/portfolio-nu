@@ -1,12 +1,12 @@
 ---
 title: 'ChatGPT on Streamlit and monitoring query response, a simple implementation'
 date: '2025-02-16T07:34:32+01:00'
-draft: true
+draft: false
 github_link: "https://github.com/AkanimohOD19A"
 description: "real-time: Streamlit and monitoring query response"
 tags: ["data-science", "machine-learning", "streamlit", "ChatGPT", "tutorial", "python", "EDA"]
 author: "AfroLogicInsect"
-image: /images/blog-placeholder.png
+image: /images/blogs-placeholder.png
 ---
 
 In this blog post, we will explore my approach to creating a prototype or MVP of sorts that demonstrates the use of the ChatGPT API to retrieve responses on queries fed, optimized for certain keywords and also present an exploration of the responses.

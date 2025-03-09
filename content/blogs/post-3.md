@@ -1,12 +1,12 @@
 ---
-title: 'Model Selection & Hyper Parameter Tuning in Binary Data Classification (Practical Example)'
+title: 'Copy: Model Selection & Hyper Parameter Tuning in Binary Data Classification (Practical Example)'
 date: '2025-02-16T07:34:32+01:00'
-draft: true
+draft: false
 github_link: "https://github.com/AkanimohOD19A"
 description: "real-time: Streamlit and monitoring query response"
 tags: ["data-science", "machine-learning", "streamlit", "ChatGPT", "tutorial", "python", "EDA"]
 author: "AfroLogicInsect"
-image: /images/blog-placeholder.png
+image: /images/blogs-placeholder.png
 ---
 
 How can you identify Fraud using a Dataset on Energy Consumption in a relationship between Service Provider and Energy consumers? To determine the class of Fraud, 0 or 1, where 0 stands for No Instance of Fraud and 1 otherwise.

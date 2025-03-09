@@ -24,10 +24,10 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
+    - identifier: blogs
       name: Blog
       title: Blog posts
-      url: /blog
+      url: /blogs
       weight: 1
     - identifier: gallery
       name: Gallery
@@ -397,7 +397,7 @@ params:
 
   footer:
     recentPosts:
-      path: "blog"
+      path: "blogs"
       count: 3
       title: Recent Posts
       enable: true
@@ -413,7 +413,7 @@ params:
   listPages:
     disableFeaturedImage: false
 
-  # Single pages like blog and post
+  # Single pages like blogs and post
   singlePages:
     socialShare: true
     readTime:
