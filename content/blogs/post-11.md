@@ -1,5 +1,5 @@
 ---
-title: 'Let's build your first ML app in Google Cloud Run'
+title: "Let's build your first ML app in Google Cloud Run"
 date: '2025-02-16T07:34:32+01:00'
 draft: false
 github_link: "https://github.com/AkanimohOD19A/automl_init"
