@@ -6,7 +6,7 @@ github_link: "https://github.com/AkanimohOD19A/medical_charges_v2"
 description: "real-time: Image Segmentation web application with YOLOv8"
 tags: ["data-science", "machine-learning", "streamlit", "YOLOv8", "tutorial", "lifecycle"]
 author: "AfroLogicInsect"
-image: static/images/blogs-placeholder.png
+image: blog-images/blogs-placeholder.png
 ---
 
 ![Segmented Pieces](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pvgpuepoh09cat8bbph1.png)

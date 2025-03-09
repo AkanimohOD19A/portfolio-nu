@@ -6,7 +6,7 @@ github_link: "https://github.com/AkanimohOD19A/DPL_Drowsiness_Detection"
 description: "git init cohere_streamlit"
 tags: ["data-science", "machine-learning", "cohere", "streamlit", "YOLOv6", "tutorial", "lifecycle"]
 author: "AfroLogicInsect"
-image: static/images/blogs-placeholder.png
+image: blog-images/blogs-placeholder.png
 ---
 
 Cheers for making it to pt2; You've learnt how to Import datasets, augment that data and label the images, now we set up for real time predictions using the powerful YOLOv5 model and Google Colaboratory.

@@ -6,7 +6,7 @@ github_link: "https://auto-eda.streamlit.app/"
 description: "git init cohere_streamlit"
 tags: ["data-science", "machine-learning", "EDA", "Retrieval Augmented Generation", "streamlit", "cohere", "tutorial", "lifecycle"]
 author: "AfroLogicInsect"
-image: static/images/blogs-placeholder.png
+image: blog-images/blogs-placeholder.png
 ---
 
 Hi everyone, welcome! Today we are going to create this awesome [web-app](https://auto-eda.streamlit.app/): that simply takes your data file and provides first-level analysis or what is commonly known as exploratory data analysis (EDA).

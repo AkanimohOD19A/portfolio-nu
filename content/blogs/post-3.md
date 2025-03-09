@@ -6,7 +6,7 @@ github_link: "https://github.com/AkanimohOD19A"
 description: "real-time: Streamlit and monitoring query response"
 tags: ["data-science", "machine-learning", "streamlit", "ChatGPT", "tutorial", "python", "EDA"]
 author: "AfroLogicInsect"
-image: static/images/blogs-placeholder.png
+image: blog-images/blogs-placeholder.png
 ---
 
 How can you identify Fraud using a Dataset on Energy Consumption in a relationship between Service Provider and Energy consumers? To determine the class of Fraud, 0 or 1, where 0 stands for No Instance of Fraud and 1 otherwise.

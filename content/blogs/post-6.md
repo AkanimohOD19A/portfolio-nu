@@ -1,12 +1,12 @@
 ---
-title: 'git init cohere_streamlit pt2'
+title: 'git init cohere_streamlit - pt2'
 date: '2025-02-16T07:34:32+01:00'
 draft: false
 github_link: "https://github.com/AkanimohOD19A/initial-cohere"
 description: "git init cohere_streamlit"
 tags: ["data-science", "machine-learning", "cohere", "streamlit", "YOLOv6", "tutorial", "lifecycle"]
 author: "AfroLogicInsect"
-image: static/images/blogs-placeholder.png
+image: blog-images/blogs-placeholder.png
 ---
 
 ### Setting Up Dependencies
