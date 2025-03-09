@@ -1,5 +1,5 @@
 ---
-title: 'git init cohere_streamlit - pt1'
+title: 'Pt1 - git init cohere_streamlit'
 date: '2025-02-16T07:34:32+01:00'
 draft: false
 github_link: "https://github.com/AkanimohOD19A/initial-cohere"
