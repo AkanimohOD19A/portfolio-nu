@@ -14,25 +14,10 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-02-16T07:34:32+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/data-science/</loc>
-    <lastmod>2025-02-16T07:34:32+01:00</lastmod>
+    <loc>http://localhost:1313/tags/computer-vision/</loc>
+    <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/machine-learning/</loc>
-    <lastmod>2025-02-16T07:34:32+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/my-first-post/</loc>
-    <lastmod>2025-02-16T07:34:32+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/my-second-post/</loc>
-    <lastmod>2025-02-16T07:34:32+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/my-third-post/</loc>
-    <lastmod>2025-02-16T07:34:32+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-02-16T07:34:32+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/computer-vision/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
@@ -42,6 +27,9 @@
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/streamlit/</loc>
+    <lastmod>2024-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>

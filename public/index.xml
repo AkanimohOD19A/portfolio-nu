@@ -23,27 +23,6 @@
       <description></description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/blog/my-first-post/</link>
-      <pubDate>Sun, 16 Feb 2025 07:34:32 +0100</pubDate>
-      <guid>http://localhost:1313/blog/my-first-post/</guid>
-      <description>&lt;p&gt;sample blog post&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Second Post</title>
-      <link>http://localhost:1313/blog/my-second-post/</link>
-      <pubDate>Sun, 16 Feb 2025 07:34:32 +0100</pubDate>
-      <guid>http://localhost:1313/blog/my-second-post/</guid>
-      <description>&lt;p&gt;sample blog post&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Third Post</title>
-      <link>http://localhost:1313/blog/my-third-post/</link>
-      <pubDate>Sun, 16 Feb 2025 07:34:32 +0100</pubDate>
-      <guid>http://localhost:1313/blog/my-third-post/</guid>
-      <description>&lt;p&gt;sample blog post&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
