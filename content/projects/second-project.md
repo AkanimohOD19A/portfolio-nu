@@ -5,7 +5,7 @@ draft: false
 github_link: "https://github.com/AkanimohOD19A/mlops-sentiment-distilbert"
 links:
     - icon: fa-solid fa-cloud
-    - url: https://share.streamlit.io/user/akanimohod19a
+    - url: https://mlops-sentiment-distilbert.onrender.com
 author: "AfroLogicInsect"
 tags: 
     - "Python"
@@ -78,3 +78,6 @@ emotion-classifier/
 3. [Model Serving](#model-serving)
 
 The solution demonstrates complete MLOps implementation from model training to production deployment.
+
+
+Youtube URL: https://t.co/EeyxBO9hmM
