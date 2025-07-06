@@ -19,8 +19,8 @@ galleryImages:
  - src: "/gallery/Fleeting Magazine13-2.jpg"
  - src: "/gallery/Fleeting Magazine14.jpg"
  - src: "/gallery/100_2172.JPG"
- - src: "/gallery/100_2174.JPG
- - src: "/gallery/100_2256.JPG
+ - src: "/gallery/100_2174.JPG"
+ - src: "/gallery/100_2256.JPG"
  - src: "/gallery/100_2279.JPG"
  - src: "/gallery/100_2282.JPG"
  - src: "/gallery/100_2283.JPG"
