@@ -9,7 +9,7 @@ author: "AfroLogicInsect"
 image: /images/post-22.gif
 ---
 
-# *Building on our previous exploration of tree-based models (https://dev.to/afrologicinsect/tree-based-models-for-alzheimers-disease-classification-a-tidymodels-approach-136h), let's dive into ensemble methods and see how R makes it incredibly easy to build, deploy, and interact with sophisticated machine learning models.*
+*Building on our previous exploration of tree-based models (https://dev.to/afrologicinsect/tree-based-models-for-alzheimers-disease-classification-a-tidymodels-approach-136h), let's dive into ensemble methods and see how R makes it incredibly easy to build, deploy, and interact with sophisticated machine learning models.*
 
 ## Why Ensemble Methods Matter
 
