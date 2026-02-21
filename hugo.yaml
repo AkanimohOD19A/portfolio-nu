@@ -75,7 +75,7 @@ params:
     title: "Daniel."
     subtitle: "Intelligence, Design & Orchestration."
     content: "Finding Solutions using Intelligence, Orchestration, Research and Syntantic Sugar .py|.r|.rmd|.gs - az|aws"
-    image: /images/profile.jpg
+    image: /images/profile.png
     bottomImage:
       enable: true
     button:
@@ -101,7 +101,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/rookie_ascending.png"
+    image: "/images/profile.jpg"
     content: |-
       I like to think of myself as a rookie ascending towards mastery, over the years I have specialized in data analysis, machine learning, and orchestration. I thrive on crafting behavioral profiles, building intelligence, and orchestrating production-ready ML solutions to drive impactful business outcomes.
 
@@ -126,10 +126,10 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Customer Behavior Analyst "
+      - job: "Data Analyst (Customer Behavior Focus)"
         company: "WEMA Bank PLC"
         companyUrl: "https://www.wemabank.com/"
-        date: "Dec 2023 - present"
+        date: "Dec 2023 - Feb 2026"
         content: |
           - Conducted in-depth market-behavioral research for customer segmentation and profiling, leading to a 20% increase in targeted marketing campaign effectiveness.
           - Analyzed transaction velocity and mobile-tech adoption patterns, resulting in optimized user experiences and a 15% boost in mobile app transactions.
@@ -137,7 +137,7 @@ params:
           - Implemented real-time analytics dashboards using Power BI and Azure, enhancing decision-making processes for marketing and sales teams.
           - Automated reporting systems, reducing manual work by 40% and ensuring timely and accurate insights for stakeholders.
 
-      - job: "Customer Behavior Analyst"
+      - job: "Data Analyst (Customer Behavior Focus)"
         company: "Polaris Bank LTD"
         companyUrl: "/https://www.polarisbanklimited.com/"
         date: "Nov 2021 - Dec 2023"
@@ -158,11 +158,12 @@ params:
           - Implemented machine learning models for fraud detection, identifying and preventing fraudulent activities, saving the company significant potential losses.
           - Analyzed demographic patterns to improve customer onboarding experiences, increasing onboarding accuracy and reducing customer churn by 15%.
           - Developed dashboards and visualizations to support strategic decision-making, providing actionable insights to stakeholders.
-      
+    
+    # items:
       - job: "AI/ML Engineer"
         company: "Self-Employed"
         companyUrl: "https://github.com/AkanimohOD19A"
-        date: "2023 - present"
+        date: "present"
         content: |
           - Developed and deployed advanced ML models for real-time drowsiness and brain tumor detection, achieving 95% accuracy in practical applications.
           - Led research initiatives on melanoma detection with a focus on addressing racial bias in AI models, enhancing diagnostic accuracy for diverse populations.
@@ -224,7 +225,7 @@ params:
     items:
       - title: Machine Learning Micro-services
         content: Utilizing ML for computer vision to manipulate real-time data.
-        image: /images/placeholder.jpg
+        image: /images/gif_pack/giphy (1).gif
         featured:
           name: View Project
           link: https://akanimohod19a-transcription-services-app-qi0ntg.streamlit.app/
@@ -239,7 +240,7 @@ params:
 
       - title: ML Web Applications
         content: Utilizing supervised learning to predict in real-time.
-        image: /images/placeholder.jpg
+        image: /images/gif_pack/giphy (1).gif
         featured:
           name: View Project
           link: https://share.streamlit.io/user/akanimohod19a
@@ -255,7 +256,7 @@ params:
 
       - title: MLOPs | ML Engineering Notes
         content: Detailed notes and tutorials on deploying ML models and applications.
-        image: /images/placeholder.jpg
+        image: /images/gif_pack/mlops.gif
         featured:
           name: View Project
           link: https://dev.to/afrologicinsect/lets-build-your-first-ml-app-in-google-cloud-run-1ol2
@@ -273,7 +274,7 @@ params:
 
       - title: Deep Learning for Computer Vision
         content: Utilizing transfer learning to classify written digits and detect drowsiness in real-time.
-        image: /images/YOLO-promo.gif
+        image: /images/gif_pack/YOLO-promo.gif
         featured:
           name: View Project
           link: https://akanimohod19a.github.io/digit-recognizer.github.io/
@@ -288,7 +289,7 @@ params:
 
       - title: Exploratory Data Analysis
         content: Utilizing Pycharm scripts to explore and visualize various datasets.
-        image: /images/EDA-promo.png
+        image: /images/gif_pack/data_viz 2.gif
         featured:
           name: View Project
           link: https://github.com/AkanimohOD19A/Python-EDAs
@@ -329,7 +330,7 @@ params:
 
       - title: Tableau Dashboards
         content: An array of dashboards, with focus on Nigeria and Africa.
-        image: /images/tableau-promo.png
+        image: /images/gif_pack/data_viz.gif
         featured:
           name: View Project
           link: https://public.tableau.com/app/profile/amah.daniel/vizzes
