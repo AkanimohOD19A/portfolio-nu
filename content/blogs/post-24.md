@@ -8,8 +8,8 @@ tags: ["Generalized Additive Models", "Data Analytics", "Additive", "Machine Lea
 author: "AfroLogicInsect"
 image: /images/post-24.png
 ---
-
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wyh43zvg9fm232nnd69s.gif)
+<!-- 
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wyh43zvg9fm232nnd69s.gif) -->
 
 _Initially published on May 27, 2025_
 GAMs (Generalized Additive Models) handle non-linearity in model development through their flexible approach. The "additive" in the model implies that the response variable can be modeled as a sum of smooth functions of predictor variables, allowing for non-linear relationships without requiring specific parametric forms.
