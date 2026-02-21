@@ -37,7 +37,7 @@ Menus:
 
 params:
   title: "Akanimoh | AfroLogicInsect"
-  description: "Finding Solutions using **Intelligence**, **Orchestration**, **Research** and **Syntantic Sugar** .py|.r|.rmd|.gs - az|aws"
+  description: "Finding Solutions using **Intelligence**, **Orchestration**, **Research** and **Syntactic Sugar** .py|.r|.rmd|.gs - az|aws"
   favicon: "/fav.png"
   useBootstrapCDN: false
   mathjax: false
